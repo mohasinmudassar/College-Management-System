@@ -1,0 +1,3 @@
+software,8,1441
+maths,12,1331
+economics,5,141
